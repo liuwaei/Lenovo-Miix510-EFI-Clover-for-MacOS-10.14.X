@@ -1,4 +1,4 @@
-# Lenovo-Miix510-EFI-Clover-for-MacOS-10.14.2
+# Lenovo-Miix510-EFI-Clover-for-MacOS-10.14.X
 
 联想miix510 黑苹果驱动,版本必须是10.14.X
 
